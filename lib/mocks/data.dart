@@ -74,7 +74,7 @@ final userInfo = {
   "following": 448,
   "first_name": "Alexander",
   "last_name": "Sokolov",
-  "job_title": "photographer",
+  "job_title": "Photographer",
   "description":
       "Like to travel and shoot cinematic and b/w photos\nTools - Capture One for Raw",
   "photo_url": "assets/images/img.png",
