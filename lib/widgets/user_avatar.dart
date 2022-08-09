@@ -46,10 +46,8 @@ class UserAvatar extends StatelessWidget {
         height: size,
         clipBehavior: Clip.hardEdge,
         child: Image.asset(
-
           userAvatarPath,
           fit: BoxFit.fill,
-
         ),
       ),
     );
